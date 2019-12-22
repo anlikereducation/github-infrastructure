@@ -1,4 +1,5 @@
 .idea/
+secrets.sh
 
 # Local .terraform directories
 **/.terraform/*
